@@ -1,2 +1,1 @@
-# routine
-Golang routine package
+# Routine
